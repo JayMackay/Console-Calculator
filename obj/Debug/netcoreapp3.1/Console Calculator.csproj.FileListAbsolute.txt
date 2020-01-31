@@ -1,0 +1,11 @@
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.exe
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.deps.json
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.runtimeconfig.json
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.runtimeconfig.dev.json
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.dll
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.pdb
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.csprojAssemblyReference.cache
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.AssemblyInfo.cs
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.dll
+C:\Users\Jarvis\Documents\Work\Coding Projects\C#\Visual Studios Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.pdb
